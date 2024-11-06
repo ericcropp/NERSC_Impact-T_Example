@@ -1,0 +1,3 @@
+[submodule "facet2-lattice"]
+	path = facet2-lattice
+	url = https://github.com/slaclab/facet2-lattice.git
